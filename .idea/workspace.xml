@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="712ec4bd-8a4e-4d6a-9c41-38abd675bf23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colisao1.py" beforeDir="false" afterPath="$PROJECT_DIR$/colisao1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virus.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d9SugWKw9c3iGhor4lRtFtUbjh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Projeto---jogos-4L-master" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.menu">
+    <configuration name="boss_screen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoProjeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boss_screen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="colisao1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoProjeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colisao1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoProjeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoProjeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menu3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.menu" />
+        <item itemvalue="Python.colisao1" />
+        <item itemvalue="Python.menu3" />
+        <item itemvalue="Python.boss_screen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="712ec4bd-8a4e-4d6a-9c41-38abd675bf23" name="Default Changelist" comment="" />
+      <created>1591836039246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591836039246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="157" width="424" height="482" key="FileChooserDialogImpl" timestamp="1592092292574">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="423" y="157" width="424" height="482" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1592092292574" />
+    <state width="1257" height="195" key="GridCell.Tab.0.bottom" timestamp="1592262344956">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="195" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592262344956" />
+    <state width="1257" height="195" key="GridCell.Tab.0.center" timestamp="1592262344955">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="195" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592262344955" />
+    <state width="1257" height="195" key="GridCell.Tab.0.left" timestamp="1592262344955">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="195" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592262344955" />
+    <state width="1257" height="195" key="GridCell.Tab.0.right" timestamp="1592262344956">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="195" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592262344956" />
+    <state width="1257" height="243" key="GridCell.Tab.1.bottom" timestamp="1591841558399">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="243" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591841558399" />
+    <state width="1257" height="243" key="GridCell.Tab.1.center" timestamp="1591841558398">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="243" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1591841558398" />
+    <state width="1257" height="243" key="GridCell.Tab.1.left" timestamp="1591841558397">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="243" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1591841558397" />
+    <state width="1257" height="243" key="GridCell.Tab.1.right" timestamp="1591841558398">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1257" height="243" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1591841558398" />
+    <state x="333" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1592259508655">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="333" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1592259508655" />
+    <state x="438" y="91" width="393" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591927862023">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="438" y="91" width="393" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1591927862023" />
+    <state x="0" y="0" width="639" height="799" maximized="true" key="dock-window-1" timestamp="1592091089435">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="639" height="799" maximized="true" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592091089435" />
+  </component>
+</project>
